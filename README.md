@@ -1,3 +1,8 @@
-# My Awesome Book
+# 课程介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+理财投资总共有32天的课程
+
+
+
